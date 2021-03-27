@@ -9,6 +9,10 @@ This is my little waterhole on the internet. If I really wanted to sell myself t
 
 I am a father. I am a husband. I am a naval officer. I am a dog owner. I am an - almost religiously - fan of simplicity. I am currently a staff officer with the [Danish Defence Acquisition and Logistics Organization](https://fmi.dk/en/), working with [IT](https://en.wikipedia.org/wiki/Information_technology) transformational activities, tying People, Processes and Technology together. I am so much more.
 
+I've been nerding around IT since mid-90s and still is. What I do and how I do it has changed drastically, but the basic curisority that drives it is unchanged. Back then it was half-nighters with cola and beer and a monstrosity of a computer. Now it is short stints on the iPad in the couch - still with beer :o)
+
+I currently live in [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen), enjoying the relaxed bike-friendly atmosphere and growing variety of locally brewed beers of my native country's capital.
+
 <a id="Contact">&nbsp;</a>
 ## Contact
 
