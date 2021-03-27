@@ -1,11 +1,21 @@
 ---
 layout: default
 title: Henrik B&oslash;gh
+menu: menu_index.html
 ---
-
+<a id="About">&nbsp;</a>
+## About
 This is my little waterhole on the internet. If I really wanted to sell myself to you, I guess I should be more active on [Twitter](https://twitter.com/boegh) or [Flickr](https://www.flickr.com/photos/boegh/) or maybe even [Instagram](https://www.instagram.com/boegh.me/). But I'm not... Don't take it personally :o) (also: Have you ever heard of *[attention engineers](https://othjournal.com/2019/01/09/attention-engineering-what-it-is-how-it-is-used-and-why-warfighters-need-it/)*?)
 
 I am a father. I am a husband. I am a naval officer. I am a dog owner. I am an - almost religiously - fan of simplicity. I am currently a staff officer with the [Danish Defence Acquisition and Logistics Organization](https://fmi.dk/en/), working with [IT](https://en.wikipedia.org/wiki/Information_technology) transformational activities, tying People, Processes and Technology together. I am so much more.
+
+<a id="Contact">&nbsp;</a>
+## Contact
+
+You may contact me (securely!) through Keybase [@boegh](https://keybase.io/boegh). I'm also checking out whats happening on [Twitter](https://twitter.com/boegh) now and then. I'm even sometimes active on [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (old-school - I know...) on [Freenode](https://en.wikipedia.org/wiki/Freenode) as *heb*. 
+
+<a id="Links">&nbsp;</a>
+## &#9829;&#8594;
 
 * My [LinkedIn](http://www.linkedin.com/in/boegh) profile
 * My [GitHub](https://github.com/boegh) profile
