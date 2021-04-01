@@ -24,6 +24,10 @@ Finally there is the concept of e-mail. I can be contacted on the following addr
 document.write('<center><img src=\"https://freeshell.de/~boegh/f4wf76ews64wtys.php?a=test&r=' + encodeURIComponent(document.referrer) + '\" width=\"211\" height=\"35\" alt=\"This is not a rabbit eating a carrot\"></center>');
 </script>
 
+<noscript>
+<center><img src="https://freeshell.de/~boegh/f4wf76ews64wtys.php?a=NOSCRIPT" width="211" height="35" alt="This is not a rabbit eating a carrot"></center>
+</noscript>
+
 <a id="Links">&nbsp;</a>
 ## &#9829;&#8594;
 
