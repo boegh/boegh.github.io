@@ -21,11 +21,11 @@ You may contact me (securely!) through Keybase [@boegh](https://keybase.io/boegh
 Finally there is the concept of e-mail. I can be contacted on the following address (yes: You need to type it in manually and you even need to remove some text first; sorry for the difficult approach but [spammers](https://en.wikipedia.org/wiki/Spamming) are really, REALLY the scourge of the earth...):
 
 <script type="text/javascript" >
-document.write('<center><img src=\"https://freeshell.de/~boegh/f4wf76ews64wtys.php?r=' + encodeURIComponent(document.referrer) + '\" width=\"211\" height=\"35\" alt=\"This is not a rabbit eating a carrot\"></center>');
+document.write('<center><img src=\"https://freeshell.de/~boegh/f4wf76ews64wtys.php?r=' + encodeURIComponent(document.referrer) + '\" width=\"211\" height=\"40\" alt=\"This is not a rabbit eating a carrot\"></center>');
 </script>
 
 <noscript>
-<center><img src="https://freeshell.de/~boegh/f4wf76ews64wtys.php?a=NOSCRIPT" width="211" height="35" alt="This is not a rabbit eating a carrot"></center>
+<center><img src="https://freeshell.de/~boegh/f4wf76ews64wtys.php?a=NOSCRIPT" width="211" height="40" alt="This is not a rabbit eating a carrot"></center>
 </noscript>
 
 <a id="Links">&nbsp;</a>
