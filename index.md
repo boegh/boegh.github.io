@@ -18,8 +18,11 @@ I currently live in [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen), enjo
 
 You may contact me (securely!) through Keybase [@boegh](https://keybase.io/boegh). I'm also checking out whats happening on [Twitter](https://twitter.com/boegh) now and then. I'm even sometimes active on [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) (old-school - I know...) on [Freenode](https://en.wikipedia.org/wiki/Freenode) as *heb*. 
 
-Finally there is the concept of e-mail. I can be contacted on the following address (yes: You need to type it in manually and you even need to remove some text first; sorry for the difficult approach but [spammers](https://en.wikipedia.org/wiki/Spamming) are really, REALLY the scourge of the earth...):<br />
-<center><img src="https://freeshell.de/~boegh/f4wf76ews64wtys.php" alt="Girl in a jacket" width="211" height="35"></center><br />
+Finally there is the concept of e-mail. I can be contacted on the following address (yes: You need to type it in manually and you even need to remove some text first; sorry for the difficult approach but [spammers](https://en.wikipedia.org/wiki/Spamming) are really, REALLY the scourge of the earth...):
+
+<script type="text/javascript" >
+document.write('<center><img src=\"https://freeshell.de/~boegh/f4wf76ews64wtys.php?a=test&r=' + encodeURIComponent(document.referrer) + '\" width=\"211\" height=\"35\" alt=\"This is not a rabbit eating a carrot\"></center>');
+</script>
 
 <a id="Links">&nbsp;</a>
 ## &#9829;&#8594;
