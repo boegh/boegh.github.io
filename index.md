@@ -15,7 +15,7 @@ I currently live in [Copenhagen](https://en.wikipedia.org/wiki/Copenhagen), enjo
 
 <a id="Nerd">&nbsp;</a>
 ## Henrik the Nerd
-I pride myself of being a bit of a nerd. I see it is as a positive, affectionate and encouraging term. Of someone with curiosity and a desire to gain insight. Something the world always has needed and always will need. I have been nerding around with computers for many years. Though my way of doing it, has changed significantly over the years. From fiddling with hardware and getting it to function, to running servers, doing help desk support and project management. My baisc curiosity of these has always been there.
+I pride myself of being a bit of a nerd. I see it is as a positive, affectionate and encouraging term. Of someone with curiosity and a desire to gain insight. Something the world always has needed and always will need. I have been nerding around with computers for many years. Though my way of doing it, has changed significantly over the years. From fiddling with hardware and getting it to function, to running servers, doing help desk support and project management. My basic curiosity of these has always been there for logic, actions, automation, empowerment and what-not. I guess like a mix of Kant and Rousseau if you are into philosophy (another of my nerdy passions :o)).
 
 
 <a id="Contact">&nbsp;</a>
