@@ -1,3 +1,2 @@
-# Henrik Bøgh
 **A little home on the internet**
 ...
